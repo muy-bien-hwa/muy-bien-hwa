@@ -9,4 +9,4 @@
 
 
 + ### 📫 email : <gomgom3008@gmail.com>
-  + ###### Or... You can contact me at : <ybh3008@naver.com>
+  + ###### or... You can contact me at : <ybh3008@naver.com>
