@@ -5,5 +5,8 @@
 #### Welcome to my Github! 🫠
 ###### _But... why?_
 
+<br/><br/><br/>
+
+
 + #### 📫 email : <gomgom3008@gmail.com>
-+ ##### But if it's urgent, : <ybh3008@naver.com>
+###### But if it's urgent, : <ybh3008@naver.com>
