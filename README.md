@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=Byeonghwa%20Yu)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&text=Byeonghwa%20Yu&fontSize=40&fontAlign=100)
 <!--
 **muy-bien-hwa/muy-bien-hwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
