@@ -27,4 +27,4 @@
 
 <br/><br/><br/>
 ## ▶ Contact 
-##### email : <yubyeonghwa@seoultech.ac.kr>
+##### email : <yubyeonghwa@seoultech.ac.kr> or <gomgom3008@gmail.com>
